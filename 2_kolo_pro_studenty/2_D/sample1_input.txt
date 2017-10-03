@@ -1,0 +1,12 @@
+﻿V_0,Rohenald,3
+V_0,Unrield,1
+Rohenald,Troindent,1
+Rohenald,GrGrGr,7
+Rohenald,Bifrost,6
+Troindent,GrGrGr,6
+Troindent,Bifrost,6
+GrGrGr,Unrield,3
+GrGrGr,Bifrost,4
+GrGrGr,Genhald,5
+Unrield,Genhald,6
+Genhald,Quondral,2

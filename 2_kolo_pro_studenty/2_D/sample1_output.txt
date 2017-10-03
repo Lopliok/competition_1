@@ -1,0 +1,8 @@
+19
+Bifrost,GrGrGr => 4
+Genhald,GrGrGr => 5
+Genhald,Quondral => 2
+GrGrGr,Unrield => 3
+Rohenald,Troindent => 1
+Rohenald,V_0 => 3
+Unrield,V_0 => 1

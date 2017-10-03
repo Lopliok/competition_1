@@ -1,0 +1,18 @@
+46
+Bifrost,Iris => 4
+Genhald,Plond => 4
+Genhald,Quondral => 5
+Genhald,V_0 => 3
+Gohndel,Ladal => 4
+Gohndel,Lagadas => 1
+Gohndel,Solnheimn => 3
+GrGrGr,Iris => 5
+GrGrGr,Rohenald => 2
+Grindel,Plond => 3
+Lagadas,Tamriel => 1
+Lagadas,Xoro => 1
+Rohenald,Troindent => 1
+Rohenald,V_0 => 1
+Tamriel,V_0 => 3
+Unrield,Xandro => 2
+Xandro,Xoro => 3
